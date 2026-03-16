@@ -15,7 +15,7 @@ A complete data cleaning and validation pipeline for Indian **Permanent Account 
 - [SQL Implementation (PostgreSQL)](#sql-implementation-postgresql)
   - [Bug Fixed](#bug-fixed-sql)
   - [How to Run](#how-to-run-sql)
-- [Python vs SQL — Side by Side](#python-vs-sql--side-by-side)
+- [Python vs SQL - Side by Side](#python-vs-sql--side-by-side)
 - [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
 
