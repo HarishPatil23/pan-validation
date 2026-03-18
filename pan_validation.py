@@ -11,7 +11,7 @@ import re
 # -------------------------------------------------------------
 # (2) Load Dataset
 # -------------------------------------------------------------
-df = pd.read_excel(r'C:\Users\Harish Patil\OneDrive\Documents\Python\TechTFQ\PAN Card Validation in PYTHON - Scripts\pan_number_validation_dataset.xlsx')
+df = pd.read_excel(r'pan_number_validation_dataset.xlsx')
 total_records = len(df)
 # print("Initial Total Records:", total_records)
 
